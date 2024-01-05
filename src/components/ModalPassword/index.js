@@ -1,0 +1,1 @@
+export { ModalPassword } from './ModalPassword' 
